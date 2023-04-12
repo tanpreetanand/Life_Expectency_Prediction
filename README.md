@@ -1,8 +1,5 @@
 # Life_Expectency_Prediction
 
-•	Classified the life expectancy in various countries in 2019. 
-•	Used Multivariate imputation by chained equations (MICE) and collinearity. 
-•	Used Machine learning models for classification and finally ANOVA model was applied. 
 
 
 Introduction : The project is based on the experimental analysis of Life Expectancy in various countries in the year 2019. Initailly the Preliminary 
